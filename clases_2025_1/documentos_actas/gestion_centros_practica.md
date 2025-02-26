@@ -50,4 +50,4 @@ Aquí tienes un formato organizado en **tabla Excel/Google Sheets** para gestion
 - Validar con los coordinadores de los centros antes de finalizar.  
 - Incluir una columna de **"Fecha de Inicio"** y **"Fecha de Finalización"** si las prácticas son por periodos específicos.  
 
-¡Espero que te sirva! 😊
+
