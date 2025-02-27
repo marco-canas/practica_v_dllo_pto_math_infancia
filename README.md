@@ -18,12 +18,14 @@ Código del curso de práctica V: 2097501
 
 # Evaluación  
 
-Recurso de enseñanza:                           20%     
-Diario pedagógico                               20%     
-planaciones de cada clase                       10%    
-Video de practicante dando clase                10%   
-Socialización final de la práctica pedagógica:  20%      
-Pruebas individuales (4 quices)                 20%       
+Recurso de enseñanza:                                              20%     
+Diario pedagógico                                                  20%     
+planaciones de cada clase                                          10%    
+Video de practicante dando clase                                   10% 
+Elaboración y presentación del informe de práctica:                10%  
+Socialización final de la práctica pedagógica:                     10%
+
+Pruebas individuales (4 momentos evaluativos, orales, o escritos)  20%       
 
 
 # Referentes
