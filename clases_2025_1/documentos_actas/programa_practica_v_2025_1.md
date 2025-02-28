@@ -1,21 +1,24 @@
- | PROGRAMA OFICIAL DE CURSO
-(Pregrado y Posgrado)
- | UNIVERSIDAD DE ANTIOQUIA
-INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL
-Unidad Académica: | Unidad Académica: | Unidad Académica:
-Programa académico al que pertenece: | Programa académico al que pertenece: | Programa académico al que pertenece: | Programa académico al que pertenece:
-Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso:
-Vigencia: | Código curso: | Código curso:
-Nombre del curso: | Nombre del curso: | Nombre del curso:
-Área o componente de formación del currículo: | Área o componente de formación del currículo: | Área o componente de formación del currículo: | Área o componente de formación del currículo: | Área o componente de formación del currículo: | Área o componente de formación del currículo: | Área o componente de formación del currículo: | Área o componente de formación del currículo: | Área o componente de formación del currículo: | Área o componente de formación del currículo: |  |  |  | 
-Tipo de curso: | Tipo de curso: | Créditos académicos: | Créditos académicos: | Créditos académicos: | Créditos académicos: | Créditos académicos: | Créditos académicos:
-Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia
-Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso:
-Pre-requisitos: | Pre-requisitos: | Pre-requisitos: | Práctica Pedagógica IV | Práctica Pedagógica IV | Práctica Pedagógica IV | Práctica Pedagógica IV | Práctica Pedagógica IV | Práctica Pedagógica IV | Práctica Pedagógica IV | Práctica Pedagógica IV | Práctica Pedagógica IV | Práctica Pedagógica IV | Práctica Pedagógica IV
-Co-requisitos: | Co-requisitos: | Co-requisitos:
-Horas docencia directa: | Horas docencia directa: | Horas docencia directa: | Horas docencia directa: | Horas docencia directa: | Horas docencia directa: |  |  | Horas de trabajo independiente: | Horas de trabajo independiente: | Horas de trabajo independiente: | Horas de trabajo independiente: | Horas de trabajo independiente:
-Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso:
-Profesor(a) que elaboró: Astrid Pineda Muriel, Gloria Inés Velásquez Velásquez | Profesor(a) que elaboró: Astrid Pineda Muriel, Gloria Inés Velásquez Velásquez | Profesor(a) que elaboró: Astrid Pineda Muriel, Gloria Inés Velásquez Velásquez | Profesor(a) que elaboró: Astrid Pineda Muriel, Gloria Inés Velásquez Velásquez | Profesor(a) que elaboró: Astrid Pineda Muriel, Gloria Inés Velásquez Velásquez | Correo electrónico: 
+|  | PROGRAMA OFICIAL DE CURSO
+(Pregrado y Posgrado) |
+|  | ----------------------------------------------- |
+|  | UNIVERSIDAD DE ANTIOQUIA |
+
+| INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL |
+| ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| Unidad Académica: | Unidad Académica: | Unidad Académica: |
+| Programa académico al que pertenece: | Programa académico al que pertenece: | Programa académico al que pertenece: | Programa académico al que pertenece: |
+| Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: |
+| Vigencia: | Código curso: | Código curso: |
+| Nombre del curso: | Nombre del curso: | Nombre del curso: |
+| Área o componente de formación del currículo: | Área o componente de formación del currículo: | Área o componente de formación del currículo: | Área o componente de formación del currículo: | Área o componente de formación del currículo: | Área o componente de formación del currículo: | Área o componente de formación del currículo: | Área o componente de formación del currículo: | Área o componente de formación del currículo: | Área o componente de formación del currículo: |  |  |  |  |
+| Tipo de curso: | Tipo de curso: | Créditos académicos: | Créditos académicos: | Créditos académicos: | Créditos académicos: | Créditos académicos: | Créditos académicos: |
+| Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia | Características del curso:      Validable           Habilitable            Clasificable            Evaluación de suficiencia |
+| Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: | Modalidad del curso: |
+| Pre-requisitos: | Pre-requisitos: | Pre-requisitos: | Práctica Pedagógica IV | Práctica Pedagógica IV | Práctica Pedagógica IV | Práctica Pedagógica IV | Práctica Pedagógica IV | Práctica Pedagógica IV | Práctica Pedagógica IV | Práctica Pedagógica IV | Práctica Pedagógica IV | Práctica Pedagógica IV | Práctica Pedagógica IV |
+| Co-requisitos: | Co-requisitos: | Co-requisitos: |
+| Horas docencia directa: | Horas docencia directa: | Horas docencia directa: | Horas docencia directa: | Horas docencia directa: | Horas docencia directa: |  |  | Horas de trabajo independiente: | Horas de trabajo independiente: | Horas de trabajo independiente: | Horas de trabajo independiente: | Horas de trabajo independiente: |
+| Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: | Horas totales del curso: |
+| Profesor(a) que elaboró: Astrid Pineda Muriel, Gloria Inés Velásquez Velásquez | Profesor(a) que elaboró: Astrid Pineda Muriel, Gloria Inés Velásquez Velásquez | Profesor(a) que elaboró: Astrid Pineda Muriel, Gloria Inés Velásquez Velásquez | Profesor(a) que elaboró: Astrid Pineda Muriel, Gloria Inés Velásquez Velásquez | Profesor(a) que elaboró: Astrid Pineda Muriel, Gloria Inés Velásquez Velásquez | Correo electrónico: 
 astrid.pineda@udea.edu.co, gines.velasquez@udea.edu.co | Correo electrónico: 
 astrid.pineda@udea.edu.co, gines.velasquez@udea.edu.co | Correo electrónico: 
 astrid.pineda@udea.edu.co, gines.velasquez@udea.edu.co | Correo electrónico: 
@@ -23,10 +26,12 @@ astrid.pineda@udea.edu.co, gines.velasquez@udea.edu.co | Correo electrónico:
 astrid.pineda@udea.edu.co, gines.velasquez@udea.edu.co | Correo electrónico: 
 astrid.pineda@udea.edu.co, gines.velasquez@udea.edu.co | Correo electrónico: 
 astrid.pineda@udea.edu.co, gines.velasquez@udea.edu.co | Correo electrónico: 
-astrid.pineda@udea.edu.co, gines.velasquez@udea.edu.co | 
-INFORMACIÓN ESPECÍFICA | INFORMACIÓN ESPECÍFICA | INFORMACIÓN ESPECÍFICA
-Descripción general y justificación del curso: | Descripción general y justificación del curso: | Descripción general y justificación del curso:
-Asumimos la práctica pedagógica como “el conjunto de relaciones teóricas y prácticas articuladas a las dimensiones pedagógica, educativa, didáctica, investigativa y disciplinar en contextos diversos. Esta relación, dinámica y compleja, estará cruzada por referentes éticos, ontológicos, históricos, culturales y políticos, que permitirá desde una actitud crítica y reflexiva consolidar la identidad de maestro (Documento Maestro Licenciatura en Educación Infantil, p. 1).
+astrid.pineda@udea.edu.co, gines.velasquez@udea.edu.co |  |
+
+| INFORMACIÓN ESPECÍFICA | INFORMACIÓN ESPECÍFICA | INFORMACIÓN ESPECÍFICA |
+| ---------------------- | ---------------------- | ---------------------- |
+| Descripción general y justificación del curso: | Descripción general y justificación del curso: | Descripción general y justificación del curso: |
+| Asumimos la práctica pedagógica como “el conjunto de relaciones teóricas y prácticas articuladas a las dimensiones pedagógica, educativa, didáctica, investigativa y disciplinar en contextos diversos. Esta relación, dinámica y compleja, estará cruzada por referentes éticos, ontológicos, históricos, culturales y políticos, que permitirá desde una actitud crítica y reflexiva consolidar la identidad de maestro (Documento Maestro Licenciatura en Educación Infantil, p. 1).
 En este sentido, se puede comprender la práctica como un proceso de reflexión que potencia la apropiación de habilidades investigativas, miradas estas como un conjunto de preguntas y acciones que posibilitan lecturas interpretativas del aula o de otros escenarios educativos, de modo que puedan contribuir al desarrollo y al crecimiento profesional de los maestros en formación. 
 
 La Práctica Pedagógica V es un espacio que permite integrar, fundamentar y continuar el proceso de formación que llevan los estudiantes de la Licenciatura en Educación Infantil a lo largo de las cuatro prácticas anteriores y de los cursos que desarrollan en el pregrado. Como maestros en formación, los estudiantes deben desarrollar conocimientos, competencias y habilidades para posibilitar procesos de enseñanza-aprendizaje en Instituciones Educativas oficiales o privadas en las infancias. Para ello se hace necesario que, en su formación profesional, trabajen dentro de la escuela real para que se acerquen a ella y la comprendan a partir de la teoría que han construido en su formación inicial.
@@ -119,9 +124,9 @@ Es decir, en la medida que los maestros en formación enseñen a los niños se e
 
 De acuerdo a los aspectos anteriores, la práctica pedagógica realizada con los estudiantes durante el proceso de formación docente, permitirá visualizar la tarea educativa en una óptica integradora, en la cual se concibe que los procesos de formación, particularmente el desarrollo de los pensamientos matemáticos, son posibles a partir de las dinámicas y la riqueza de las interacciones entre los niños con los objetos y con las personas que los rodean; así mismo se concibe la práctica docente como un proceso permanente de formación.
 
-En esta posición se asume la Práctica Pedagógica V, como un gran reto de formación mediado por las interacciones en diferentes escenarios: por una parte, los diferentes contextos educativos, incluido el contexto rural, sus dinámicas y cotidianidades del aula; por otra parte, el contexto de seminario, su dinámica de permanente reflexión mediada por la lectura, la escritura y los aportes de otros espacios de formación. Con base en lo anterior, la Práctica Pedagógica V concibe a los maestros en formación como hacedores de su propio perfil, como dinamizadores, copartícipes de su propia formación, en la práctica misma.
-Objetivo general: | Objetivo general: | Objetivo general:
-Objetivos específicos:   
+En esta posición se asume la Práctica Pedagógica V, como un gran reto de formación mediado por las interacciones en diferentes escenarios: por una parte, los diferentes contextos educativos, incluido el contexto rural, sus dinámicas y cotidianidades del aula; por otra parte, el contexto de seminario, su dinámica de permanente reflexión mediada por la lectura, la escritura y los aportes de otros espacios de formación. Con base en lo anterior, la Práctica Pedagógica V concibe a los maestros en formación como hacedores de su propio perfil, como dinamizadores, copartícipes de su propia formación, en la práctica misma. |
+| Objetivo general: | Objetivo general: | Objetivo general: |
+| Objetivos específicos:   
 
 Orientar la formación de los estudiantes en la dimensión personal, investigativa y profesional docente o de la práctica pedagógica.
 Implementar en diversos contextos elementos teóricos desarrollados en los espacios de conceptualización, fundamentalmente los relacionados con el desarrollo del pensamiento matemático en las infancias, desde un enfoque sociocultural.
@@ -151,9 +156,9 @@ Presentar los resultados alcanzados en el que se dé cuenta del proceso vivido d
 Motivar a los maestros en formación para que trasciendan el rol de receptores de conocimiento y se visualicen como actores que aportan a la construcción de éste, a través de la interacción con los sujetos/objetos de estudio, así mismo a través de la reflexión permanente sobre su práctica.
 Promover en los maestros en formación prácticas investigativas por medio de principios, conceptos, métodos y técnicas de investigación, pero fundamentalmente a través de lo concreto y lo vivencial.
 Explorar diferentes formatos de sistematización de experiencias (material multimedia) con miras a la divulgación y publicación en revistas especializadas o eventos académicos en Educación Matemática. 
-Sensibilizar a las maestras en formación en todo lo relacionado con la ruralidad en la vida escolar-
-Contenido: | Contenido: | Contenido:
-Unidades: 
+Sensibilizar a las maestras en formación en todo lo relacionado con la ruralidad en la vida escolar- |
+| Contenido: | Contenido: | Contenido: |
+| Unidades: 
 Eje 1. Eje formativo y personal
 
 Este eje parte del reconocimiento del Ser maestro como un arte, una profesión y una vocación. Un arte porque cada grupo, cada niño, necesita una variación, un ajuste y una atención personal, que exige sensibilidad, flexibilidad y originalidad.
@@ -180,8 +185,8 @@ Preguntas orientadoras
 ¿Cuál es el papel del pensamiento matemático en las infancias?
 ¿Cuál es el rol del maestro en las infancias?
 ¿Cuál es el perfil de un Licenciado en Educación Infantil?
-¿De dónde van a salir los profesores que necesita el campo?, ¿cómo se va a garantizar su formación?
-Eje 2. Eje investigativo
+¿De dónde van a salir los profesores que necesita el campo?, ¿cómo se va a garantizar su formación? |
+| Eje 2. Eje investigativo
 
 En este eje se espera que el maestro en formación se reconozca como un maestro investigador. Ser maestro investigador es trascender y llevar la educación más allá del aula. El maestro es quien dinamiza procesos y acciones educativas en la escuela, a partir de los cuales crea y recrea conocimiento, hábitos de conducta y formas de relación entre las personas.
 El maestro investigador es aquel que no abandona el aula para hacer ciencia, la hace en su propia actividad profesional. Posee la base del conocimiento científico y lo aplica para solucionar los problemas que se manifiestan en la formación de los estudiantes.
@@ -193,8 +198,8 @@ Escritura científica.
 Relatos pedagógicos | Preguntas orientadoras
 ¿Somos maestros investigadores?
 ¿Qué implicaciones tiene la investigación en el aula? 
-¿Cuáles son las formas de investigar que podemos implementar dentro del aula?
-Eje 3. Eje disciplinar 
+¿Cuáles son las formas de investigar que podemos implementar dentro del aula? |
+| Eje 3. Eje disciplinar 
 
 El objeto de conocimiento posibilita llevar a diversos contextos, elementos teóricos desarrollados en los espacios de conceptualización, teniendo en cuenta la didáctica de los conceptos relacionados con los pensamientos matemáticos, las teorías de aprendizaje, la construcción del pensamiento pertinente al entorno sociocultural, la manera cómo aprenden los niños y las niñas, con la manera cómo enseña el maestro y cómo con sus acciones pedagógicas promueve el desarrollo infantil.
 
@@ -211,9 +216,11 @@ Dificultades de aprendizaje de las matemáticas. | Preguntas orientadoras
 ¿Cómo se puede explicar la construcción y reconstrucción del saber pedagógico desde la perspectiva de los docentes, con referencia a su proceso de formación y práctica pedagógica? 
 ¿Qué implicaciones tiene el rol del maestro investigador en las infancias?
 ¿Cómo propiciar experiencias posibilitadoras del aprendizaje con el saber matemático en las infancias?
-¿Cómo propiciar el desarrollo del pensamiento matemático en las infancias a partir del desarrollo de competencias?
-METODOLOGÍA
-Metodológicamente La Práctica Pedagógica V se desarrolla a partir de los dos espacios que la conforman, el Seminario de Práctica Pedagógica y el Centro de Práctica. El Seminario de Práctica Pedagógica se desarrolla con la metodología de Seminario Investigativo o Seminario Alemán. Y la asistencia al Centro de Práctica se desarrolla a partir de la creación de ambientes de aprendizaje.
+¿Cómo propiciar el desarrollo del pensamiento matemático en las infancias a partir del desarrollo de competencias? |
+
+| METODOLOGÍA |
+| ----------- |
+| Metodológicamente La Práctica Pedagógica V se desarrolla a partir de los dos espacios que la conforman, el Seminario de Práctica Pedagógica y el Centro de Práctica. El Seminario de Práctica Pedagógica se desarrolla con la metodología de Seminario Investigativo o Seminario Alemán. Y la asistencia al Centro de Práctica se desarrolla a partir de la creación de ambientes de aprendizaje.
 
 Seminario de Práctica Pedagógica 
 El Seminario de Práctica Pedagógica se desarrolla con la metodología de Seminario Investigativo o Seminario Alemán. El Seminario Investigativo o Seminario Alemán alude en su origen a una propuesta pedagógica de la universidad alemana del siglo XVIII para renovar las estrategias de estudio y formación de los especialistas superiores (investigadores). Con el seminario investigativo se postula la superación de los sistemas de estudio basados en los fundamentos y procedimientos didácticos de la lección.
@@ -268,17 +275,23 @@ El desarrollo de la Práctica Pedagógica V consta de las siguientes etapas:
 
 6. Socialización de la experiencia: es el evento que se programa por el comité de carrera, donde los maestros en formación como responsables de este evento, dan cuenta de los procesos vivenciados en la práctica desde lo disciplinar, lo personal, lo formativo y lo investigativo.
 
-La práctica integrativa V, se ha estructurado en forma de guías, en las cuales se distribuyen las temáticas a trabajar durante el semestre.
-Actividad de evaluación | Porcentaje | Fecha
-30
-30
-10
-15
-Evaluación de la práctica | 15
-Actividades de asistencia obligatoria:
+La práctica integrativa V, se ha estructurado en forma de guías, en las cuales se distribuyen las temáticas a trabajar durante el semestre. |
 
-Bibliografía:
-Bibliografía básica.
+| Actividad de evaluación | Porcentaje | Fecha |
+| ----------------------- | ---------- | ----- |
+| 30 |
+| 30 |
+| 10 |
+| 15 |
+| Evaluación de la práctica | 15 |
+
+| Actividades de asistencia obligatoria: |
+| -------------------------------------- |
+|  |
+
+| Bibliografía: |
+| ------------- |
+| Bibliografía básica.
 
 Alsina, C. (2006). La matemática hermosa se enseña con el corazón. Sigma (29).143-150.
 D’Amore, B., & Fandiño, M. (2015, April). La matemática en las aulas de Primera Infancia. In XVIII Congreso Internacional de Educación Inicial, Neiva: Confederación Nacional por la.
@@ -326,13 +339,18 @@ Muñoz, F. (s.f.). Cómo desarrollar competencias investigativas en educación. 
 Parra-Zapata, M.M. (2015). Participación de estudiantes de quinto grado en ambientes de modelación matemática. reflexiones a partir de la perspectiva socio-crítica de la modelación matemática. Tesis de Maestría. Universidad de Antioquia. Medellín: Colombia.
 Pérez, G., García, G., Nocedo, I. y García, M. (1996/2001). Metodología de la investigación educacional (1ª reimpresión). Primera parte. La Habana: pueblo y educación.
 Restrepo, B. (2002). Investigación en educación. Bogotá. ARFO Editores e Impresores Ltda. 
-Rodríguez, A. L. (2004). Aprendiendo a sistematizar: una propuesta metodológica. Orientación, coordinación y asesoría COSUDE - Colombia. Dimensión Educativa.
-Profesores | Profesores | Profesores | Profesores | Profesores | Profesores
-Nombres y Apellidos | Dependencia | Formación en pregrado y posgrado | Unidad N° | N° Horas | Fechas
-Mary Luz Castro Castro | Facultad de Educación | Magister en educación |  |  | 
- |  |  |  |  | 
-Aprobación del Consejo de Unidad Académica | Aprobación del Consejo de Unidad Académica | Aprobación del Consejo de Unidad Académica | Aprobación del Consejo de Unidad Académica | Aprobación del Consejo de Unidad Académica | Aprobación del Consejo de Unidad Académica | Aprobación del Consejo de Unidad Académica | Aprobación del Consejo de Unidad Académica | Aprobación del Consejo de Unidad Académica
-Aprobado en Acta   del  . | Aprobado en Acta   del  . | Aprobado en Acta   del  . | Aprobado en Acta   del  . | Aprobado en Acta   del  . | Aprobado en Acta   del  . | Aprobado en Acta   del  . | Aprobado en Acta   del  . | Aprobado en Acta   del  .
- |  |  |  |  |  |  |  | 
- | Nombre Completo Secretario del Consejo de la Unidad Académica |  | Firma | Firma | Firma |  | Cargo | 
- |  |  |  |  |  |  |  | 
+Rodríguez, A. L. (2004). Aprendiendo a sistematizar: una propuesta metodológica. Orientación, coordinación y asesoría COSUDE - Colombia. Dimensión Educativa. |
+
+| Profesores | Profesores | Profesores | Profesores | Profesores | Profesores |
+| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| Nombres y Apellidos | Dependencia | Formación en pregrado y posgrado | Unidad N° | N° Horas | Fechas |
+| Mary Luz Castro Castro | Facultad de Educación | Magister en educación |  |  |  |
+|  |  |  |  |  |  |
+
+| Aprobación del Consejo de Unidad Académica | Aprobación del Consejo de Unidad Académica | Aprobación del Consejo de Unidad Académica | Aprobación del Consejo de Unidad Académica | Aprobación del Consejo de Unidad Académica | Aprobación del Consejo de Unidad Académica | Aprobación del Consejo de Unidad Académica | Aprobación del Consejo de Unidad Académica | Aprobación del Consejo de Unidad Académica |
+| ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
+| Aprobado en Acta   del  . | Aprobado en Acta   del  . | Aprobado en Acta   del  . | Aprobado en Acta   del  . | Aprobado en Acta   del  . | Aprobado en Acta   del  . | Aprobado en Acta   del  . | Aprobado en Acta   del  . | Aprobado en Acta   del  . |
+|  |  |  |  |  |  |  |  |  |
+|  | Nombre Completo Secretario del Consejo de la Unidad Académica |  | Firma | Firma | Firma |  | Cargo |  |
+|  |  |  |  |  |  |  |  |  |
+
