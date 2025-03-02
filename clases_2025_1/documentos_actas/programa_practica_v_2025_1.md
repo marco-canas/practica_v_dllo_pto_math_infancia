@@ -1,37 +1,10 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- | PROGRAMA OFICIAL DE CURSO
+| PROGRAMA OFICIAL DE CURSO
 (Pregrado y Posgrado)
- | UNIVERSIDAD DE ANTIOQUIA
+| UNIVERSIDAD DE ANTIOQUIA
 
 
-INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL
-Unidad Académica: | Unidad Académica: | Unidad Académica:
+|INFORMACIÓN GENERAL | 
+Unidad Académica: Facultad de Educación|
 Programa académico al que pertenece: | Programa académico al que pertenece: | Programa académico al que pertenece: | Programa académico al que pertenece:
 Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso:
 Vigencia: | Código curso: | Código curso:
@@ -55,8 +28,10 @@ astrid.pineda@udea.edu.co, gines.velasquez@udea.edu.co | Correo electrónico:
 astrid.pineda@udea.edu.co, gines.velasquez@udea.edu.co | 
 
 
-INFORMACIÓN ESPECÍFICA | INFORMACIÓN ESPECÍFICA | INFORMACIÓN ESPECÍFICA
-Descripción general y justificación del curso: | Descripción general y justificación del curso: | Descripción general y justificación del curso:
+# INFORMACIÓN ESPECÍFICA |   
+
+## Descripción general y justificación del curso: |   
+
 Asumimos la práctica pedagógica como “el conjunto de relaciones teóricas y prácticas articuladas a las dimensiones pedagógica, educativa, didáctica, investigativa y disciplinar en contextos diversos. Esta relación, dinámica y compleja, estará cruzada por referentes éticos, ontológicos, históricos, culturales y políticos, que permitirá desde una actitud crítica y reflexiva consolidar la identidad de maestro (Documento Maestro Licenciatura en Educación Infantil, p. 1).
 En este sentido, se puede comprender la práctica como un proceso de reflexión que potencia la apropiación de habilidades investigativas, miradas estas como un conjunto de preguntas y acciones que posibilitan lecturas interpretativas del aula o de otros escenarios educativos, de modo que puedan contribuir al desarrollo y al crecimiento profesional de los maestros en formación.
 La Práctica Pedagógica V es un espacio que permite integrar, fundamentar y continuar el proceso de formación que llevan los estudiantes de la Licenciatura en Educación Infantil a lo largo de las cuatro prácticas anteriores y de los cursos que desarrollan en el pregrado. Como maestros en formación, los estudiantes deben desarrollar conocimientos, competencias y habilidades para posibilitar procesos de enseñanza-aprendizaje en Instituciones Educativas oficiales o privadas en las infancias. Para ello se hace necesario que, en su formación profesional, trabajen dentro de la escuela real para que se acerquen a ella y la comprendan a partir de la teoría que han construido en su formación inicial.
