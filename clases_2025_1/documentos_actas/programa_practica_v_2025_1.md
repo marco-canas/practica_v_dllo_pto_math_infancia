@@ -1,37 +1,10 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- | PROGRAMA OFICIAL DE CURSO
+| PROGRAMA OFICIAL DE CURSO
 (Pregrado y Posgrado)
- | UNIVERSIDAD DE ANTIOQUIA
+| UNIVERSIDAD DE ANTIOQUIA
 
 
-INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL | INFORMACIÓN GENERAL
-Unidad Académica: | Unidad Académica: | Unidad Académica:
+|INFORMACIÓN GENERAL | 
+Unidad Académica: Facultad de Educación|
 Programa académico al que pertenece: | Programa académico al que pertenece: | Programa académico al que pertenece: | Programa académico al que pertenece:
 Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso:
 Vigencia: | Código curso: | Código curso:
