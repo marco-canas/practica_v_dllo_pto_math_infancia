@@ -1,9 +1,10 @@
-Aquí tienes 10 enfoques pedagógicos para el desarrollo del pensamiento matemático en la infancia, contextualizados al Liceo Caucasia (Antioquia) y alineados con los objetivos de la Práctica Pedagógica V de la Universidad de Antioquia:
+# 10 enfoques pedagógicos para el desarrollo del pensamiento matemático en la infancia, contextualizados al Liceo Caucasia (Antioquia) y alineados con los objetivos de la Práctica Pedagógica V de la Universidad de Antioquia:
 
 ---
 
 ### 1. **Aprendizaje Basado en Juegos (ABJ)**  
-**Descripción:** Integrar juegos estructurados (como loterías numéricas, rompecabezas geométricos o juegos de roles con monedas locales) para desarrollar conceptos matemáticos.  
+**Descripción:** Integrar juegos estructurados (como loterías numéricas, rompecabezas geométricos o juegos de roles con monedas locales, bloques lógicos)  
+para desarrollar conceptos matemáticos.  
 **Justificación:** Promueve el aprendizaje lúdico, alineado con los procesos sensoriomotores y preoperacionales de las infancias.  
 **Contexto Caucasia:** Usar materiales autóctonos (semillas de maíz, hojas de plátano para clasificar) y juegos tradicionales (como "la lleva" adaptada a secuencias numéricas).  
 
