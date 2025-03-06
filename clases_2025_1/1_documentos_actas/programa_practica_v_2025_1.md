@@ -3,9 +3,9 @@
 | UNIVERSIDAD DE ANTIOQUIA
 
 
-|INFORMACIÓN GENERAL | 
-Unidad Académica: Facultad de Educación|
-Programa académico al que pertenece: | Programa académico al que pertenece: | Programa académico al que pertenece: | Programa académico al que pertenece:
+# INFORMACIÓN GENERAL 
+## Unidad Académica: Facultad de Educación
+### Programa académico al que pertenece: Licenciatura en Educación Infantil 
 Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso: | Programas académicos a los cuales se ofrece el curso:
 Vigencia: | Código curso: | Código curso:
 Nombre del curso: | Nombre del curso: | Nombre del curso:
@@ -32,8 +32,10 @@ astrid.pineda@udea.edu.co, gines.velasquez@udea.edu.co |
 
 ## Descripción general y justificación del curso: |   
 
-Asumimos la práctica pedagógica como “el conjunto de relaciones teóricas y prácticas articuladas a las dimensiones pedagógica, educativa, didáctica, investigativa y disciplinar en contextos diversos. Esta relación, dinámica y compleja, estará cruzada por referentes éticos, ontológicos, históricos, culturales y políticos, que permitirá desde una actitud crítica y reflexiva consolidar la identidad de maestro (Documento Maestro Licenciatura en Educación Infantil, p. 1).
-En este sentido, se puede comprender la práctica como un proceso de reflexión que potencia la apropiación de habilidades investigativas, miradas estas como un conjunto de preguntas y acciones que posibilitan lecturas interpretativas del aula o de otros escenarios educativos, de modo que puedan contribuir al desarrollo y al crecimiento profesional de los maestros en formación.
+Asumimos la práctica pedagógica como “el conjunto de relaciones teóricas y prácticas articuladas a las dimensiones pedagógica, educativa, didáctica, investigativa y disciplinar en contextos diversos. Esta relación, dinámica y compleja, estará cruzada por referentes éticos, ontológicos, históricos, culturales y políticos, que permitirá desde una actitud crítica y reflexiva consolidar la identidad de maestro (Documento Maestro Licenciatura en Educación Infantil, p. 1).  
+
+En este sentido, se puede comprender la práctica como un proceso de reflexión que potencia la apropiación de habilidades investigativas, miradas estas como un conjunto de preguntas y acciones que posibilitan lecturas interpretativas del aula o de otros escenarios educativos, de modo que puedan contribuir al desarrollo y al crecimiento profesional de los maestros en formación.  
+
 La Práctica Pedagógica V es un espacio que permite integrar, fundamentar y continuar el proceso de formación que llevan los estudiantes de la Licenciatura en Educación Infantil a lo largo de las cuatro prácticas anteriores y de los cursos que desarrollan en el pregrado. Como maestros en formación, los estudiantes deben desarrollar conocimientos, competencias y habilidades para posibilitar procesos de enseñanza-aprendizaje en Instituciones Educativas oficiales o privadas en las infancias. Para ello se hace necesario que, en su formación profesional, trabajen dentro de la escuela real para que se acerquen a ella y la comprendan a partir de la teoría que han construido en su formación inicial.
 La educación inicial se constituye en un estructurante de la atención integral cuyo objetivo es potenciar de manera intencionada el desarrollo integral de las niñas y los niños desde su nacimiento hasta cumplir los ocho años, partiendo del reconocimiento de sus características y de las particularidades de los contextos en que viven y favoreciendo interacciones que se generan en ambientes enriquecidos a través de experiencias pedagógicas y prácticas de cuidado. La educación inicial es válida en sí misma por cuanto el trabajo pedagógico que allí se planea parte de los intereses, inquietudes, capacidades y saberes de las niñas y los niños. Esta no busca como fin último su preparación para la escuela primaria, sino que les ofrece experiencias retadoras que impulsan su desarrollo; allí juegan, exploran su medio, se expresan a través del arte y disfrutan de la literatura.
 La Práctica Pedagógica V es un espacio de investigación en el aula que corresponde al quinto semestre de la Licenciatura en Pedagogía Infantil; hace énfasis en el desarrollo de los pensamientos y sistemas matemáticos. Lo anterior basándose en los Lineamientos Curriculares, los Estándares Básicos de Competencia y los Derechos Básicos de Aprendizaje para la Educación Matemática y la Educación Básica y Transición en Colombia. Esta se convierte en una oportunidad de interacción con el contexto educativo, en donde se pueden vivenciar diferentes ambientes de aprendizaje, experimentar metodologías, poner en acción teorías de la didáctica de las matemáticas, identificar problemas surgidos de la realidad, contrastar teorías, impulsar innovaciones y tener la posibilidad de producir saber pedagógico.
