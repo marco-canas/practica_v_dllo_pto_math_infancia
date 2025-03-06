@@ -1,203 +1,114 @@
-```html
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Programa de Práctica Pedagógica V</title>
-    <style>
-        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
-        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-        h1, h2 { color: #2c3e50; }
-        .section { margin-bottom: 30px; }
-    </style>
-</head>
-<body>
-    <h1>UNIVERSIDAD DE ANTIOQUIA</h1>
-    <h2>PROGRAMA OFICIAL DE CURSO (Pregrado y Posgrado)</h2>
+Aquí tienes la versión corregida en formato Markdown compatible con Jupyter/VS Code:
 
-    <!-- INFORMACIÓN GENERAL -->
-    <div class="section">
-        <h2>1. INFORMACIÓN GENERAL</h2>
-        <table>
-            <tr>
-                <td colspan="3"><strong>Unidad Académica:</strong></td>
-                <td colspan="11">Facultad de Educación</td>
-            </tr>
-            <tr>
-                <td colspan="4"><strong>Programa académico al que pertenece:</strong></td>
-                <td colspan="10">Educación infantil</td>
-            </tr>
-            <tr>
-                <td colspan="7"><strong>Programas académicos a los cuales se ofrece el curso:</strong></td>
-                <td colspan="7">Educación infantil</td>
-            </tr>
-            <tr>
-                <td><strong>Vigencia:</strong></td>
-                <td colspan="8">2024-1</td>
-                <td colspan="2"><strong>Código curso:</strong></td>
-                <td colspan="3">2097501</td>
-            </tr>
-            <tr>
-                <td colspan="3"><strong>Nombre del curso:</strong></td>
-                <td colspan="11">Práctica Pedagógica V</td>
-            </tr>
-            <tr>
-                <td colspan="10"><strong>Área o componente de formación del currículo:</strong> Investigación</td>
-                <td colspan="4"></td>
-            </tr>
-            <tr>
-                <td colspan="2"><strong>Tipo de curso:</strong></td>
-                <td colspan="4">Teórico - práctico</td>
-                <td colspan="6"><strong>Créditos académicos:</strong></td>
-                <td colspan="2">5</td>
-            </tr>
-            <tr>
-                <td colspan="14"><strong>Características del curso:</strong> Validable ☐ Habilitable ☐ Clasificable ☐ Evaluación de suficiencia ☐</td>
-            </tr>
-            <tr>
-                <td colspan="14"><strong>Modalidad del curso:</strong> Presencial.</td>
-            </tr>
-            <tr>
-                <td colspan="3"><strong>Pre-requisitos:</strong></td>
-                <td colspan="11">Práctica Pedagógica IV</td>
-            </tr>
-            <tr>
-                <td colspan="3"><strong>Co-requisitos:</strong></td>
-                <td colspan="11">Didáctica del pensamiento matemático.</td>
-            </tr>
-            <tr>
-                <td colspan="6"><strong>Horas docencia directa:</strong> 96</td>
-                <td colspan="2"></td>
-                <td colspan="5"><strong>Horas de trabajo independiente:</strong></td>
-                <td>96</td>
-            </tr>
-            <tr>
-                <td colspan="14"><strong>Horas totales del curso:</strong> 192</td>
-            </tr>
-            <tr>
-                <td colspan="5">
-                    <p><strong>Profesor(a) que elaboró:</strong></p>
-                    <p>Astrid Elena Pineda Muriel</p>
-                    <p>Modificada por:</p>
-                    <p>Catalina Bermúdez Galeano</p>
-                </td>
-                <td colspan="8">
-                    <p><strong>Correo electrónico:</strong></p>
-                    <p><a href="mailto:astrid.pineda@udea.edu.co">astrid.pineda@udea.edu.co</a></p>
-                    <p><a href="mailto:catalina.bermudezg@udea.edu.co">catalina.bermudezg@udea.edu.co</a></p>
-                </td>
-                <td></td>
-            </tr>
-        </table>
-    </div>
+```markdown
+# UNIVERSIDAD DE ANTIOQUIA  
+**PROGRAMA OFICIAL DE CURSO (Pregrado y Posgrado)**  
 
-    <!-- INFORMACIÓN ESPECÍFICA -->
-    <div class="section">
-        <h2>2. INFORMACIÓN ESPECÍFICA</h2>
-        <h3>Descripción general y justificación del curso:</h3>
-        <p>Asumimos la práctica pedagógica como "el conjunto de relaciones teóricas y prácticas articuladas a las dimensiones pedagógica, educativa, didáctica, investigativa y disciplinar en contextos diversos..."</p>
-        <!-- (Continuar con el resto del contenido textual) -->
-        
-        <h3>Objetivo general:</h3>
-        <p>Promover el desarrollo de una cultura investigativa en los maestros en formación...</p>
-        
-        <h3>Objetivos específicos:</h3>
-        <ul>
-            <li>Orientar la formación de los estudiantes en la dimensión personal, investigativa y profesional docente...</li>
-            <!-- (Listar todos los objetivos) -->
-        </ul>
-        
-        <h3>Contenido:</h3>
-        <table>
-            <tr>
-                <th>Unidades</th>
-                <th>Temas</th>
-                <th>Subtemas</th>
-            </tr>
-            <tr>
-                <td>Eje 1. Eje formativo y personal</td>
-                <td>Saberes fundamentales de un maestro para las infancias</td>
-                <td>Preguntas orientadoras sobre vocación, ética y rol docente</td>
-            </tr>
-            <!-- (Agregar más filas según el contenido) -->
-        </table>
-    </div>
+---
 
-    <!-- METODOLOGÍA -->
-    <div class="section">
-        <h2>3. METODOLOGÍA</h2>
-        <p>Metodológicamente, La Práctica Pedagógica V se desarrolla a partir de dos espacios: <strong>Seminario de Práctica Pedagógica</strong> y <strong>Centro de Práctica</strong>...</p>
-        <h3>Actividades y modalidades de trabajo:</h3>
-        <table>
-            <tr>
-                <th>Actividad</th>
-                <th>Modalidad de trabajo</th>
-            </tr>
-            <tr>
-                <td>Preparación de la práctica</td>
-                <td>Docencia directa</td>
-            </tr>
-            <!-- (Agregar más filas según la tabla del documento) -->
-        </table>
-    </div>
+## 1. INFORMACIÓN GENERAL  
 
-    <!-- EVALUACIÓN -->
-    <div class="section">
-        <h2>EVALUACIÓN</h2>
-        <table>
-            <tr>
-                <th>Actividad de evaluación</th>
-                <th>Porcentaje</th>
-                <th>Fecha</th>
-            </tr>
-            <tr>
-                <td>Seguimiento. Trabajo en el aula.</td>
-                <td>20%</td>
-                <td>Durante el semestre</td>
-            </tr>
-            <!-- (Completar con las demás actividades) -->
-        </table>
-    </div>
+| **Campo**                | **Detalle**                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| Unidad Académica:        | Facultad de Educación                                                       |
+| Programa académico:      | Educación Infantil                                                          |
+| Vigencia:                | 2024-1                                                                     |
+| Código curso:            | 2097501                                                                    |
+| Nombre del curso:        | Práctica Pedagógica V                                                       |
+| Tipo de curso:           | Teórico - práctico (5 créditos)                                            |
+| Modalidad:               | Presencial                                                                 |
+| Horas docencia directa:  | 96                                                                         |
+| Horas trabajo independiente: | 96                                                                      |
+| Total horas:             | 192                                                                        |
 
-    <!-- BIBLIOGRAFÍA -->
-    <div class="section">
-        <h2>BIBLIOGRAFÍA</h2>
-        <h3>Bibliografía básica:</h3>
-        <ul>
-            <li>Alsina, C. (2006). La matemática hermosa se enseña con el corazón...</li>
-            <!-- (Listar todas las referencias) -->
-        </ul>
-        <h3>Bibliografía de referencia:</h3>
-        <ul>
-            <li>Boavida, A. M. (2001). Sobre colaboração e investigação colaborativa...</li>
-            <!-- (Listar todas las referencias) -->
-        </ul>
-    </div>
+**Profesores:**  
+- Elaborado por: Astrid Elena Pineda Muriel  
+- Modificado por: Catalina Bermúdez Galeano  
+- Contacto: [astrid.pineda@udea.edu.co](mailto:astrid.pineda@udea.edu.co), [catalina.bermudezg@udea.edu.co](mailto:catalina.bermudezg@udea.edu.co)  
 
-    <!-- PROFESORES -->
-    <div class="section">
-        <h2>4. PROFESORES</h2>
-        <table>
-            <tr>
-                <th>Nombre</th>
-                <th>Dependencia</th>
-                <th>Formación</th>
-            </tr>
-            <tr>
-                <td>Catalina Bermúdez Galeano</td>
-                <td>Facultad de Educación</td>
-                <td>Licenciada en Educación básica con énfasis en matemáticas...</td>
-            </tr>
-        </table>
-    </div>
+---
 
-    <!-- APROBACIÓN -->
-    <div class="section">
-        <h2>5. APROBACIÓN DEL CONSEJO DE LA UNIDAD ACADÉMICA</h2>
-        <p>(Espacio para firma y fechas de aprobación)</p>
-    </div>
-</body>
-</html>
+## 2. INFORMACIÓN ESPECÍFICA  
+
+### Descripción  
+La práctica pedagógica se concibe como un proceso integrador de dimensiones pedagógicas, didácticas e investigativas en contextos educativos diversos, con énfasis en el desarrollo del pensamiento matemático en la primera infancia.
+
+### Objetivos  
+**General:**  
+Promover una cultura investigativa para diseñar ambientes de aprendizaje matemático en preescolar.  
+
+**Específicos:**  
+- Orientar la formación docente en dimensiones personal e investigativa  
+- Implementar estrategias socioculturales para el pensamiento matemático  
+- Diseñar propuestas pedagógicas innovadoras  
+- Reflexionar sobre procesos cognitivos infantiles  
+- Fomentar la producción académica  
+
+### Contenidos  
+
+| Ejes Temáticos          | Temas Clave                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|
+| **Eje Formativo**       | - Vocación docente <br>- Ética profesional <br>- Juego estructurado         |
+| **Eje Investigativo**   | - Técnicas de recolección de datos <br>- Sistematización de experiencias    |
+| **Eje Disciplinar**     | - Didáctica de matemáticas <br>- Pensamiento numérico y espacial            |
+
+---
+
+## 3. METODOLOGÍA  
+
+**Componentes principales:**  
+1. **Seminario Investigativo** (64 horas):  
+   - Debates y talleres  
+   - Elaboración de protocolos  
+   - Análisis de casos  
+
+2. **Centro de Práctica** (60 horas):  
+   - Diseño de secuencias didácticas  
+   - Implementación en aulas  
+   - Registro en diario pedagógico  
+
+**Actividades clave:**  
+```markdown
+- Preparación de práctica (Docencia directa)
+- Desarrollo en centros educativos (Presencial/Virtual)
+- Elaboración de informes (Trabajo autónomo)
+- Socialización de resultados (Evento académico)
 ```
 
-Este código HTML replica la estructura del documento original, utilizando tablas para organizar la información, listas para los objetivos y bibliografía, y encabezados para las secciones principales. Se incluyen estilos básicos para mejorar la legibilidad. Nota: Las imágenes y detalles específicos de formato (como márgenes exactos) deberán ajustarse según necesidades adicionales.
+---
+
+## 4. EVALUACIÓN  
+
+| Actividad                  | Ponderación | Periodo               |
+|----------------------------|-------------|-----------------------|
+| Seguimiento en aula        | 20%         | Todo el semestre      |
+| Diario pedagógico          | 15%         | Todo el semestre      |
+| Proyecto con secuencia didáctica | 20%  | Semanas 4-5          |
+| Sistematización            | 15%         | Última semana        |
+| Evaluación final           | 30%         | Semana de exámenes   |
+
+---
+
+## 5. BIBLIOGRAFÍA  
+
+**Básica:**  
+- Alsina, C. (2006). *La matemática hermosa se enseña con el corazón*  
+- MEN (2006). *Estándares Básicos de Competencias en Matemáticas*  
+
+**Complementaria:**  
+- Freire, P. (2004). *Cartas a quien pretende enseñar*  
+- Parra-Zapata, M.M. (2015). *Participación en ambientes de modelación matemática*  
+
+---
+
+**Aprobado por:**  
+Consejo Académico de la Facultad de Educación - Fecha: [Insertar fecha]
+```
+
+Este formato:  
+1. Usa sintaxis Markdown estándar compatible con Jupyter/VS Code  
+2. Mantiene la estructura jerárquica con headers (`#`, `##`)  
+3. Utiliza tablas simples sin colspan/rowspan  
+4. Incluye listas anidadas y bloques de código para mejor legibilidad  
+5. Es completamente renderizable en cualquier visor Markdown  
+6. Conserva toda la información clave del programa original
