@@ -53,11 +53,9 @@ Aquí tienes el formato adaptado con los nuevos campos solicitados, incluyendo l
 ---
 
 ### **Notas adicionales**:  
-- Si el total de practicantes es 17, eliminar las filas 19-21 o asignarlas como reserva.  
+- Si el total de practicantes es 19, eliminar las filas 19-21 o asignarlas como reserva.  
 - El campo "Parcial" podría vincularse con una fórmula para calcular la nota final automáticamente.  
 
-¡Queda listo para completar la asignación! 📊✨
----
 
 ### **Formato de Asignación de Prácticas**  
 **Licenciatura en Educación Infantil**  
@@ -69,12 +67,13 @@ Aquí tienes el formato adaptado con los nuevos campos solicitados, incluyendo l
 | 2  |                       | I.E Marco Fidel                                      | Primero                                         | Sala 3         | Martes y Jueves 2-4 PM    | 20                          |                |
 | ...| ...                   | ...                                                  | ...                                             | ...            | ...                      | ...                         | ...            |
 | 17 |                       |                                                      |                                                 |                |                          |                             |                |
+||||||
 
 ---
 
 ### **Instrucciones/Notas**:
 1. **Centros de Práctica**:  
-   - Distribuir equitativamente a los 17 estudiantes entre los dos centros (ej: 8 en Liceo Caucasia y 9 en I.E Marco Fidel).  
+   - Distribuir equitativamente a los 19 estudiantes entre los dos centros (ej: 19 en Liceo Caucasia).  
    - Verificar la capacidad máxima de cada centro.  
 
 2. **Grados**:  
