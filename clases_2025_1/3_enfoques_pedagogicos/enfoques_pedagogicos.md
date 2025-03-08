@@ -71,11 +71,26 @@ para desarrollar conceptos matemáticos.
 **Justificación:** Desarrolla competencias digitales sin dejar de lado la reflexión crítica.  
 **Contexto:** Crear videos con celulares donde los niños expliquen cómo miden objetos de su casa.  
 
----
+---  
+
+### 11. El enfoque pedagógico correspondiente a Raymond Duval en su psicología cognitiva para el aprendizaje de la matemática es **la teoría de los registros de representación semiótica**.  
+
+Este enfoque es **altamente aplicable** para el desarrollo del pensamiento matemático en la infancia, específicamente en los grados preescolar, primero, segundo y tercero, porque:  
+
+1. **Favorece la comprensión de conceptos matemáticos** a través de la transformación y coordinación entre diferentes representaciones (icónica, gráfica, verbal, simbólica, etc.).  
+2. **Permite adaptar la enseñanza a las capacidades cognitivas de los niños**, utilizando representaciones más accesibles en las primeras etapas (como materiales concretos, dibujos y lenguaje oral) antes de introducir notaciones simbólicas formales.  
+3. **Facilita el razonamiento matemático** al hacer que los niños se familiaricen con la necesidad de cambiar entre representaciones, como interpretar una cantidad en objetos físicos, en un dibujo, en un número escrito y en una expresión verbal.  
+4. **Refuerza el desarrollo del pensamiento abstracto** al permitir que los niños internalicen estructuras matemáticas mediante la interacción con distintos registros.  
+
+En resumen, la teoría de Duval es una base sólida para diseñar estrategias didácticas que promuevan el desarrollo del pensamiento matemático en la infancia.
 
 ### Articulación con los Ejes del Curso:  
 - **Formativo:** Enfoques como ABJ y aprendizaje cooperativo fortalecen la vocación docente mediante la creación de ambientes lúdicos.  
 - **Disciplinar:** La modelación y resolución de problemas abordan componentes numérico-variacionales y aleatorios.  
-- **Investigativo:** Los proyectos de aula y sistematización con materiales locales promueven la observación estructurada.  
+- **Investigativo:** Los proyectos de aula y sistematización con materiales locales promueven la observación estructurada.    
+
+---
+
+
 
 Estos enfoques no solo desarrollan el pensamiento matemático, sino que honran la identidad caucasiana, vinculando saberes escolares con la vida cotidiana de las infancias.
