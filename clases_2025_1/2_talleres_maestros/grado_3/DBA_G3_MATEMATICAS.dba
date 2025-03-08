@@ -1,0 +1,64 @@
+@echo off
+REM ---------------------------------------------------------------
+REM **Derechos Básicos de Aprendizaje (DBA) - Matemáticas Grado 3**
+REM Ministerio de Educación Nacional de Colombia
+REM ---------------------------------------------------------------
+
+:ENUNCIADO_DBA1
+ECHO ------------------------------------------------------------------
+ECHO **ENUNCIADO 1:** Interpreta y resuelve problemas aditivos (composición, transformación, comparación) y multiplicativos (directos) en contextos cotidianos.
+ECHO ------------------------------------------------------------------
+
+:EVIDENCIAS_DBA1
+ECHO [EVIDENCIAS]
+ECHO 1. Dibuja diagramas de barras con ^> para representar "Juan tiene 5 manzanas y recibe 3 más".
+ECHO 2. Resuelve en su cuaderno: "Si un bus lleva 45 pasajeros y suben 12, ¿cuántos hay ahora?".
+ECHO 3. Crea un problema donde use ^> y ^< para comparar cantidades (ej: "Luis tiene 10 láminas; Ana tiene 7. ¿Quién tiene más?").
+
+:EJEMPLO_DBA1
+ECHO [EJEMPLO]
+ECHO "En una frutería hay 8 cajas con 6 mangos cada una. ¿Cuántos mangos hay en total?"
+ECHO SOLUCIÓN ESPERADA: 
+ECHO 1. Diagrama: 8 grupos de 6 puntos.
+ECHO 2. Operación: 8 x 6 = 48.
+ECHO ------------------------------------------------------------------
+
+:ENUNCIADO_DBA2
+ECHO ------------------------------------------------------------------
+ECHO **ENUNCIADO 2:** Propone estrategias para calcular combinaciones posibles (ej: outfits con 3 camisas y 2 pantalones).
+ECHO ------------------------------------------------------------------
+
+:EVIDENCIAS_DBA2
+ECHO [EVIDENCIAS]
+ECHO 1. Elabora una tabla con todas las combinaciones posibles entre dos conjuntos.
+ECHO 2. Resuelve: "¿Cuántos números de 2 dígitos se forman con 1, 2, 3 sin repetir?".
+ECHO 3. Usa árboles de decisiones para mostrar rutas entre lugares (ej: casa -> parque -> escuela).
+
+:EJEMPLO_DBA2
+ECHO [EJEMPLO]
+ECHO "María tiene 2 pares de zapatos (rojos/azules) y 3 sombreros (amarillo, verde, negro). ¿Cuántos outfits diferentes puede crear?"
+ECHO SOLUCIÓN ESPERADA:
+ECHO - Tabla: Filas = zapatos, Columnas = sombreros.
+ECHO - Operación: 2 x 3 = 6 combinaciones.
+ECHO ------------------------------------------------------------------
+
+:ENUNCIADO_DBA3
+ECHO ------------------------------------------------------------------
+ECHO **ENUNCIADO 3:** Analiza resultados matemáticos para determinar su plausibilidad en contextos reales.
+ECHO ------------------------------------------------------------------
+
+:EVIDENCIAS_DBA3
+ECHO [EVIDENCIAS]
+ECHO 1. Explica por qué "5 x 100 = 50" es incorrecto en el problema: "Una caja tiene 100 lápices. ¿Cuántos lápices hay en 5 cajas?".
+ECHO 2. Valida si "30 - 45 = -15" tiene sentido al resolver: "María tenía $30 y gastó $45 en dulces".
+ECHO 3. Justifica si es posible repartir 23 caramelos en 5 bolsas con 4 cada una.
+
+:EJEMPLO_DBA3
+ECHO [EJEMPLO]
+ECHO "Un profesor dice que 150 ÷ 3 = 40. ¿Es correcto? Explica."
+ECHO SOLUCIÓN ESPERADA:
+ECHO - Cálculo: 3 x 40 = 120 ≠ 150 → Error.
+ECHO - Respuesta válida: 150 ÷ 3 = 50.
+ECHO ------------------------------------------------------------------
+
+pause
