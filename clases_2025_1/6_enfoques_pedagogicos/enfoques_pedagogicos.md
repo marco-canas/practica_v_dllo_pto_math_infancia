@@ -1,4 +1,4 @@
-# 10 enfoques pedagógicos para el desarrollo del pensamiento matemático en la infancia, contextualizados al Liceo Caucasia (Antioquia) y alineados con los objetivos de la Práctica Pedagógica V de la Universidad de Antioquia:
+# 11 enfoques pedagógicos para el desarrollo del pensamiento matemático en la infancia, contextualizados al Liceo Caucasia (Antioquia) y alineados con los objetivos de la Práctica Pedagógica V de la Universidad de Antioquia:
 
 ---
 
