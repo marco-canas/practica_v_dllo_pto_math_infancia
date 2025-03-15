@@ -6,7 +6,7 @@
 | **Unidad Académica:**          | Facultad de Educación                |
 |--------------------------------|---------------------------------------|
 | **Programa académico:**        | Educación Infantil                   |
-| **Vigencia:**                  | 2024-1                                |
+| **Vigencia:**                  | 2025-1                                |
 | **Código curso:**              | 2097501                              |
 | **Nombre del curso:**          | Práctica Pedagógica V                |
 | **Área de formación:**         | Investigación                        |
