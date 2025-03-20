@@ -2,6 +2,9 @@
 
 ---
 
+Fecha de entrega de el video sobre los enfoques pedagógicos: **4 de abril de 2025**  
+
+
 ### 1. **Aprendizaje Basado en Juegos (ABJ)**  
 **Descripción:** Integrar juegos estructurados (como loterías numéricas, rompecabezas geométricos o juegos de roles con monedas locales, bloques lógicos)  
 para desarrollar conceptos matemáticos.  
