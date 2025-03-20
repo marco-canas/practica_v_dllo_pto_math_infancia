@@ -2,6 +2,8 @@
 
 Código del curso de práctica V: 2097501  
 
+[Registro del acta de inicio ante la facultad](https://docs.google.com/forms/d/e/1FAIpQLSeVvQCPttMX2va8qHyi-QZpeFq-_tcM8xiYo4JKt7C9ei2S1g/formResponse)
+
 [Registro inconsistencias lista de matriculados, estudiantes ausentes y alerta deserción](https://forms.office.com/pages/responsepage.aspx?id=IefhmYRxjkmK_7KtTlPBwrBHE0JZMbBFiOK7H9OJU6JUN0xDT0dWUjRUV0dVNUdKQVVQSUZJUjgxMy4u&route=shorturl)  
 
 # INFORMACIÓN ESPECÍFICA  
