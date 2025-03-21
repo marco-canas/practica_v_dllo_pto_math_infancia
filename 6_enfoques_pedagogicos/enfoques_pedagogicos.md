@@ -8,12 +8,19 @@ para desarrollar conceptos matemáticos.
 **Justificación:** Promueve el aprendizaje lúdico, alineado con los procesos sensoriomotores y preoperacionales de las infancias.  
 **Contexto Caucasia:** Usar materiales autóctonos (semillas de maíz, hojas de plátano para clasificar) y juegos tradicionales (como "la lleva" adaptada a secuencias numéricas).  
 
+#### Ejemplo de utilización de este enfoque:  
+
+
 ---
 
 ### 2. **Enfoque Sociocultural con Pertinencia Local**  
 **Descripción:** Vincular las matemáticas a prácticas culturales y económicas de la región (ej. contar cosechas, medir terrenos, analizar precios del mercado local).  
 **Justificación:** Alinea con el eje sociocultural del curso y los Lineamientos Curriculares del MEN.  
 **Aplicación:** Proyectos sobre la economía caucasiana (ej. calcular ganancias en ventas de plátano o pescado del Río Cauca).  
+
+#### Ejemplo de utilización de este enfoque:  
+
+
 
 ---
 
@@ -22,12 +29,18 @@ para desarrollar conceptos matemáticos.
 **Justificación:** Desarrolla competencias para "saber hacer", como propone la Revolución Educativa.  
 **Ejemplo:** Analizar la frecuencia de lluvias en el municipio para introducir estadística básica.  
 
+#### Ejemplo de utilización de este enfoque:  
+
+
 ---
 
 ### 4. **Manipulación de Material Concreto con Recursos Locales**  
 **Descripción:** Usar objetos tangibles (piedras del río, botones reciclados, mazorcas) para operaciones básicas y geometría.  
 **Justificación:** Favorece la etapa sensoriomotora y operacional concreta, clave en preescolar y primeros grados.  
-**Contexto:** Talleres con arcilla para modelar figuras 3D, inspiradas en la artesanía local.  
+**Contexto:** Talleres con arcilla para modelar figuras 3D, inspiradas en la artesanía local. 
+
+#### Ejemplo de utilización de este enfoque:  
+
 
 ---
 
@@ -36,12 +49,20 @@ para desarrollar conceptos matemáticos.
 **Justificación:** Fortalece el eje investigativo del curso, vinculando observación y sistematización.  
 **Aplicación:** Registrar datos de cultivos en huertas escolares para gráficos simples.  
 
+#### Ejemplo de utilización de este enfoque:  
+
+
+
 ---
 
 ### 6. **Modelación Matemática con Contextos Rurales**  
 **Descripción:** Representar matemáticamente situaciones del campo (ej. patrones en tejidos de hamacas, trayectorias de animales).  
 **Justificación:** Alinea con los Derechos Básicos de Aprendizaje (DBA) y el componente métrico-geométrico.  
 **Ejemplo:** Crear mapas a escala del colegio usando pasos y palmos como unidades de medida.  
+
+#### Ejemplo de utilización de este enfoque:  
+
+
 
 ---
 
@@ -50,12 +71,20 @@ para desarrollar conceptos matemáticos.
 **Justificación:** Integra el desarrollo afectivo y social, como propone la educación inicial.  
 **Contexto:** Elaborar mandalas con semillas para explorar patrones y fracciones.  
 
+#### Ejemplo de utilización de este enfoque:  
+
+
+
 ---
 
 ### 8. **Aprendizaje Cooperativo con Roles Comunitarios**  
 **Descripción:** Trabajo en grupos con roles inspirados en oficios locales (ej. "agricultores" que miden parcelas, "comerciantes" que suman precios).  
 **Justificación:** Fomenta la comunicación matemática y la interdependencia positiva.  
 **Aplicación:** Simular un mercado caucasiano para practicar sumas y restas.  
+
+#### Ejemplo de utilización de este enfoque:  
+
+
 
 ---
 
@@ -64,6 +93,10 @@ para desarrollar conceptos matemáticos.
 **Justificación:** Empodera a los niños como constructores activos de su conocimiento, en línea con Freire.  
 **Ejemplo:** "Rincones matemáticos" con materiales recogidos en salidas al entorno rural.  
 
+#### Ejemplo de utilización de este enfoque:  
+
+
+
 ---
 
 ### 10. **Integración de TIC con Recursos Accesibles**  
@@ -71,7 +104,13 @@ para desarrollar conceptos matemáticos.
 **Justificación:** Desarrolla competencias digitales sin dejar de lado la reflexión crítica.  
 **Contexto:** Crear videos con celulares donde los niños expliquen cómo miden objetos de su casa.  
 
+#### Ejemplo de utilización de este enfoque:  
+
+
+
 ---  
+
+
 
 ### 11. El enfoque pedagógico correspondiente a Raymond Duval en su psicología cognitiva para el aprendizaje de la matemática es **la teoría de los registros de representación semiótica**.  
 
@@ -84,6 +123,10 @@ Este enfoque es **altamente aplicable** para el desarrollo del pensamiento matem
 
 En resumen, la teoría de Duval es una base sólida para diseñar estrategias didácticas que promuevan el desarrollo del pensamiento matemático en la infancia.
 
+#### Ejemplo de utilización de este enfoque:  
+
+
+
 ### Articulación con los Ejes del Curso:  
 - **Formativo:** Enfoques como ABJ y aprendizaje cooperativo fortalecen la vocación docente mediante la creación de ambientes lúdicos.  
 - **Disciplinar:** La modelación y resolución de problemas abordan componentes numérico-variacionales y aleatorios.  
@@ -93,4 +136,8 @@ En resumen, la teoría de Duval es una base sólida para diseñar estrategias di
 
 
 
-Estos enfoques no solo desarrollan el pensamiento matemático, sino que honran la identidad caucasiana, vinculando saberes escolares con la vida cotidiana de las infancias.
+Estos enfoques no solo desarrollan el pensamiento matemático, sino que honran la identidad caucasiana, vinculando saberes escolares con la vida cotidiana de las infancias.  
+
+# Tarea para los practicantes
+
+
