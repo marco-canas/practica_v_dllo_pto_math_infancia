@@ -38,3 +38,11 @@ La rúbrica evalúa los siguientes aspectos clave, alineados con los objetivos d
 - Relacionar el diagnóstico con los ejes del curso: formativo, disciplinar e investigativo.  
 
 **Nota:** Esta rúbrica integra los requerimientos del programa de Práctica Pedagógica V, enfocándose en la articulación teoría-práctica y el desarrollo del pensamiento matemático en las infancias.
+
+
+
+# Evaluación   
+|Descripción|Fecha Límite de Entrega|Porcentaje|  
+|-----------|-----------------------|----------|  
+|Presentación en video de los tres enfoques escogidos|4 de abril|2|
+|Caracterización|24 de abril|5%|   
