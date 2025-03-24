@@ -63,6 +63,7 @@ Promover el desarrollo de una cultura investigativa en los maestros en formació
 
 
 # Evaluación   
+
 |Descripción|Fecha Límite de Entrega|Porcentaje|  
 |-----------|-----------------------|----------|  
 |Presentación en video de los tres enfoques escogidos|4 de abril|2|
