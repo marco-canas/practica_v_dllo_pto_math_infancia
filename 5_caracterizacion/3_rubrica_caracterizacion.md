@@ -1,4 +1,4 @@
-**Rúbrica para la Caracterización de la Práctica Pedagógica V: Desarrollo del Pensamiento Matemático en Preescolar, 1°, 2° y 3°**  
+# **Rúbrica para la Caracterización de la Práctica Pedagógica V: Desarrollo del Pensamiento Matemático en Preescolar, 1°, 2° y 3°**  
 Son 8 horas de caracterización. Es decir, deben realizarla en dos jueves de visita al Liceo Caucasia. 
 ---
 Fecha de entrega de la caracterizaciín: 18 de Abril de 2025.  
