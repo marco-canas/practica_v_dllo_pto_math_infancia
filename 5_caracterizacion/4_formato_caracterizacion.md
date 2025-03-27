@@ -8,7 +8,7 @@ Este es un **formato de caracterización** para los practicantes de Práctica Pe
 # **FORMATO DE CARACTERIZACIÓN**  
 **Práctica Pedagógica V – Universidad de Antioquia**  
 **Liceo Caucasia (Antioquia)**  
-**Fecha de entrega: 18 de abril de 2025**  
+**Fecha de entrega: 24 de abril de 2025**  
 
 ---
 
