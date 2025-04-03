@@ -1,4 +1,6 @@
-Aquí tienes un **diseño de secuencia didáctica** para la intervención de los docentes en formación de la Práctica V, basado en la caracterización previa y alineado con los enfoques pedagógicos seleccionados. Este modelo integra los tres enfoques elegidos (ejemplo: *Aprendizaje Basado en Juegos*, *Enfoque Sociocultural* y *Registros de Representación Semiótica*), pero puedes ajustarlo según los enfoques priorizados en tu diagnóstico:
+# Ejemplo de diseño de secuencia de clase   
+
+Este es un **diseño de secuencia didáctica** para la intervención de los docentes en formación de la Práctica V, basado en la caracterización previa y alineado con los enfoques pedagógicos seleccionados. Este modelo integra los tres enfoques elegidos (ejemplo: *Aprendizaje Basado en Juegos*, *Enfoque Sociocultural* y *Registros de Representación Semiótica*), pero puedes ajustarlo según los enfoques priorizados en tu diagnóstico:
 
 ---
 

@@ -2,7 +2,7 @@
 # Prompt para diseño de la estrctura de la investigación para la formación de dormadores en práctica V
 
 
-Dame, por favor, el diseño de una investigación educativa con metodología de Investigación Acción Educativa (IAE) para aceptar o desechar la siguiente hipótesis: "La conjugación de los enfoques de Aula Investida, Science-Tecnology-Engineering-Art-Math and Social Science (STEAMS) y el de Aprendizaje Basado en Problemas y Proyectos (ABPP)  favorece  el que el estudiante de práctica V pueda configurar una práctica pedagógica investigativa efectiva para el desarrollo del pensamiento matemático en la infancia en el aula, en el centro de Práctica: I.E. Liceo Caucasia; y que le permita aportar a la calidad de la educación en este centro de práctica configurando una intervención resumida en la siguiente secuencia: Caracterización $\to$ Definición del enfoque pedagógico de la intervención $\to$ Diseño de la secuencia didáctica de clases $\to$ Evaluación $\to$ Sistematización".
+Dame, por favor, el diseño de una investigación educativa con metodología de Investigación Acción Educativa (IAE) para aceptar o desechar la siguiente hipótesis: "La conjugación de los enfoques de Aula Invertida, Science-Tecnology-Engineering-Art-Math and Social Science (STEAMS) y el de Aprendizaje Basado en Problemas y Proyectos (ABPP)  favorece  el que el estudiante de práctica V pueda configurar una práctica pedagógica investigativa efectiva para el desarrollo del pensamiento matemático en la infancia en el aula, en el centro de Práctica: I.E. Liceo Caucasia; y que le permita aportar a la calidad de la educación en este centro de práctica configurando una intervención resumida en la siguiente secuencia: Caracterización $\to$ Definición del enfoque pedagógico de la intervención $\to$ Diseño de la secuencia didáctica de clases $\to$ Evaluación $\to$ Sistematización".
 
 Los estudiantes que realizarán esta práctica son de quinto semestre de la Licenciatura en Educación infantil de la Facultad de Educación de  Universidad de Antioquia en su Campus Caucasia.  
 
@@ -12,14 +12,14 @@ El enfoque de flipped classroom lo implementaré a través de YouTube (Canal @Di
 ### Diseño de Investigación Educativa con Metodología de Investigación Acción Educativa (IAE)
 
 #### Título de la Investigación:
-**"Impacto de la conjugación de los enfoques de Aula Investida, STEAMS y ABPP en la configuración de una práctica pedagógica investigativa efectiva para el desarrollo del pensamiento matemático en la infancia en el centro de práctica: I.E. Liceo Caucasia"**
+**"Impacto de la conjugación de los enfoques de Aula Invertida, STEAMS y ABPP en la configuración de una práctica pedagógica investigativa efectiva para el desarrollo del pensamiento matemático en la infancia en el centro de práctica: I.E. Liceo Caucasia"**
 
 #### Objetivo General:
-Evaluar si la conjugación de los enfoques de Aula Investida, STEAMS y ABPP favorece que los estudiantes de práctica V de la Licenciatura en Educación Infantil configuren una práctica pedagógica investigativa efectiva para el desarrollo del pensamiento matemático en la infancia en el aula, y que les permita aportar a la calidad de la educación en el centro de práctica I.E. Liceo Caucasia.
+Evaluar si la conjugación de los enfoques de Aula Invertida, STEAMS y ABPP favorece que los estudiantes de práctica V de la Licenciatura en Educación Infantil configuren una práctica pedagógica investigativa efectiva para el desarrollo del pensamiento matemático en la infancia en el aula, y que les permita aportar a la calidad de la educación en el centro de práctica I.E. Liceo Caucasia.
 
 #### Objetivos Específicos:
 1. Caracterizar el contexto educativo y las necesidades de los estudiantes de la I.E. Liceo Caucasia en relación con el desarrollo del pensamiento matemático.
-2. Diseñar e implementar una secuencia didáctica basada en los enfoques de Aula Investida, STEAMS y ABPP.
+2. Diseñar e implementar una secuencia didáctica basada en los enfoques de Aula Invertida, STEAMS y ABPP.
 3. Evaluar la efectividad de la intervención pedagógica en el desarrollo del pensamiento matemático en los niños.
 4. Sistematizar la experiencia y los resultados obtenidos para su posterior análisis y difusión.
 
@@ -41,7 +41,7 @@ La IAE se llevará a cabo en ciclos iterativos que incluyen planificación, acci
    - **Herramientas:** Cuestionarios, guías de observación, entrevistas semi-estructuradas.
 
 2. **Fase de Definición del Enfoque Pedagógico:**
-   - **Objetivo:** Establecer los fundamentos teóricos y prácticos de los enfoques de Aula Investida, STEAMS y ABPP.
+   - **Objetivo:** Establecer los fundamentos teóricos y prácticos de los enfoques de Aula Invertida, STEAMS y ABPP.
    - **Actividades:**
      - Revisión bibliográfica y documental.
      - Talleres de capacitación para los estudiantes de práctica V.
@@ -49,7 +49,7 @@ La IAE se llevará a cabo en ciclos iterativos que incluyen planificación, acci
    - **Herramientas:** Plataformas digitales (YouTube, GitHub), lenguajes de programación (Latex, Markdown, Python), cuadernos Jupyter.
 
 3. **Fase de Diseño de la Secuencia Didáctica:**
-   - **Objetivo:** Crear una secuencia didáctica que integre los enfoques de Aula Investida, STEAMS y ABPP.
+   - **Objetivo:** Crear una secuencia didáctica que integre los enfoques de Aula Invertida, STEAMS y ABPP.
    - **Actividades:**
      - Diseño de actividades y proyectos basados en problemas.
      - Elaboración de recursos multimedia y materiales interactivos.
@@ -79,8 +79,8 @@ La IAE se llevará a cabo en ciclos iterativos que incluyen planificación, acci
 - Investigadores y asesores de la Facultad de Educación.
 
 #### Recursos:
-- Plataformas digitales: YouTube (Canal @DiMathData), GitHub.
-- Lenguajes de programación: Latex, Markdown, Python.
+- Plataformas digitales: YouTube (Canal @DiMathData), GitHub (cuenta marco-canas).
+- Lenguajes de programación: Latex, Markdown, Python, Git.
 - Herramientas de desarrollo: Cuadernos Jupyter (VS Code, Google Colab).
 - Inteligencia artificial: ChatGPT, DeepSeek.
 

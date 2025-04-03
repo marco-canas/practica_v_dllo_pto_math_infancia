@@ -6,7 +6,7 @@ Este es un **diseño lúdico y participativo** para que los maestros en formaci�
 **Objetivo:** Diseñar secuencias didácticas innovadoras para la Práctica V, integrando la caracterización realizada y 3-4 enfoques pedagógicos.  
 **Duración:** 2 horas  
 **Materiales:**  
-- Papelotes, post-it, marcadores.  
+- Pliegos de papel periodico, post-it, marcadores.  
 - Tarjetas con los 11 enfoques pedagógicos (impresos o digitales).  
 - Fotos/evidencias de la caracterización (ej: fotos de aulas, trabajos de niños).  
 - Cronómetro y música alegre (ej: música de carrilera para ambientar).  
@@ -15,7 +15,7 @@ Este es un **diseño lúdico y participativo** para que los maestros en formaci�
 
 ### **Dinámica 1: "¡Aterrizando la caracterización!"** (30 min)  
 **Actividad:** *Galería de hallazgos*  
-1. **Paso 1:** En grupos, los practicantes pegan en papelotes:  
+1. **Paso 1:** En grupos, los practicantes pegan en los pliegos de papel periódico:  
    - **3 necesidades prioritarias** identificadas en sus 8 horas de caracterización (ej: "Los niños confunden números con cantidades").  
    - **1 foto/evidencia** que respalde cada necesidad.  
 2. **Paso 2:** Rotación por estaciones. Cada grupo comenta sus hallazgos en 3 minutos.  
@@ -68,7 +68,7 @@ Este es un **diseño lúdico y participativo** para que los maestros en formaci�
 ### **Productos del taller:**  
 1. **Secuencias didácticas** listas para implementar en el Liceo Caucasia.  
 2. **Banco de ideas:** Actividas adaptables a otros grados.  
-3. **Ruta de sistematización:** Pautas para documentar evidencias (fotos, diarios, voces de niños).  
+3. **Ruta de sistematización:** Pautas para documentar evidencias (fotos, diarios, voces de niños, el diario pedagógico).  
 
 ---
 
