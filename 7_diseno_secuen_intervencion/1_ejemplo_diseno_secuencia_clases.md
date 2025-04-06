@@ -16,7 +16,7 @@ El texto a reestructurar es el siguiente:
 ---
 
 ## **1. DESCRIPCIÓN DEL PROBLEMA EDUCATIVO**  
-*(Basado en DBA del MEN Colombia y caracterización del PEI del IE Liceo Caucasia)*  
+*(Basado en DBA del MEN Colombia y caracterización sustentada con PEI del IE Liceo Caucasia y el plan de área de Matemáticas de esta Institución)*  
 
 ### **Problemas identificados:**  
 - **Pensamiento numérico:**  
