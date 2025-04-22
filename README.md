@@ -2,6 +2,8 @@
 
 Código del curso de práctica V: 2097501  
 
+**Correo Coordinación Licenciatura Edicación Infantil**: licpedagogiainfantil@udea.edu.co
+
 [Ultima reunión de profes de práctica V](https://udeaeduco-my.sharepoint.com/personal/licpedagogiainfantil_udea_edu_co/_layouts/15/stream.aspx?id=%2Fpersonal%2Flicpedagogiainfantil%5Fudea%5Fedu%5Fco%2FDocuments%2FGrabaciones%2FReuni%C3%B3n%20profes%20Lic%2E%20Educaci%C3%B3n%20Infantil%20%28Regiones%29%2D20250410%5F160454%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3bf35dd7%2Df81d%2D4ef2%2Db44a%2D0b1d74acf485)
 
 [Registro del acta de inicio ante la facultad](https://docs.google.com/forms/d/e/1FAIpQLSeVvQCPttMX2va8qHyi-QZpeFq-_tcM8xiYo4JKt7C9ei2S1g/formResponse)
