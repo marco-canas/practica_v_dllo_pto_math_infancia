@@ -113,6 +113,8 @@ Universidad de Antioquia
 # Gestión de la evaluación  
 
 1. Diario pedagógico: Mayo 20.
-2. 
+2. Secuencia didáctica completa: Mayo 24
+3. Evaluación de la práctica: Junio 1. 
+4. Socialización final de la práctica: Junio 5. 
 
 
