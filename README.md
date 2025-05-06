@@ -104,13 +104,15 @@ Pruebas individuales (4 momentos evaluativos, orales, o escritos)  20%
 
 # Información de la coordinadora del programa en educación infantil  
 
-Cristina Buitrago Bedoya
-
+licpedagogiainfantil@udea.edu.co 
 Coordinadora 
 Licenciatura en Educación Infantil 
 Facultad de Educación
 Universidad de Antioquia 
 
+# Gestión de la evaluación  
 
+1. Diario pedagógico: Mayo 20.
+2. 
 
 
