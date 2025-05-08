@@ -8,24 +8,23 @@ El texto a reestructurar es el siguiente:
 
 
 
-### **ESTRUCTURA REORGANIZADA PARA LA SECUENCIA DE ENSEÑANZA**  
+## **ESTRUCTURA REORGANIZADA PARA LA SECUENCIA DE ENSEÑANZA**  
 **SECUENCIA DIDÁCTICA: "MATEMÁTICAS EN NUESTRO TERRITORIO"**  
 **Grado:** Preescolar a 3° de primaria  
 **Duración:** 7 sesiones (ajustable)  
 
----
+
 
 ## **1. DESCRIPCIÓN DEL PROBLEMA EDUCATIVO**  
 *(Basado en DBA del MEN Colombia y caracterización sustentada con PEI del IE Liceo Caucasia y el plan de área de Matemáticas de esta Institución)*  
 
-### **Problemas identificados:**  
+## **Problemas identificados:**  
 - **Pensamiento numérico:**  
   - Preescolar: Bajo dominio de correspondencia uno a uno (DBA: *"Establece relaciones de cantidad"*).  
   - 1°-3°: Confusión entre registros gráficos y simbólicos (DBA: *"Usa diferentes representaciones"*).  
 - **Contextualización:** Escasa vinculación con prácticas cotidianas (DBA: *"Resuelve problemas del entorno"*).  
 - **Brecha:** Estancamiento en el **nivel icónico** (Dienes) y resistencia a la abstracción.  
 
----
 
 ## **2. JUSTIFICACIÓN DE ENFOQUES PEDAGÓGICOS**  
 *(Inferidos de las necesidades detectadas)*  
@@ -36,12 +35,12 @@ El texto a reestructurar es el siguiente:
 | **Enfoque Sociocultural**  | Vygotsky: Mediación cultural.    | Conecta matemáticas con prácticas locales (ej: comercio de frutas).                            |  
 | **Registros Semióticos (Duval)** | Coordinación de representaciones. | Aborda dificultades en traducción entre registros (gráfico-simbólico).                         |  
 
----
+
 
 ## **3. HIPÓTESIS INVESTIGATIVA**  
 *"La implementación de una secuencia didáctica basada en ABJ, enfoque sociocultural y registros semióticos mejorará la capacidad de los estudiantes para transitar del nivel icónico al simbólico, evidenciado en el dominio de correspondencia, clasificación y representación de cantidades en contextos cotidianos."*  
 
----
+
 
 ## **4. OBJETIVOS DE APRENDIZAJE POR SESIÓN**  
 
@@ -54,7 +53,7 @@ El texto a reestructurar es el siguiente:
 
 *(Tabla completa con las 7 sesiones)*  
 
----
+
 
 ## **5. DISEÑO RESUMIDO DE LAS 7 SESIONES**  
 
@@ -70,7 +69,7 @@ El texto a reestructurar es el siguiente:
 
 *(Continuar con sesiones 3 a 7 en formato similar)*  
 
----
+
 
 ### **RECURSOS Y ADAPTACIONES**  
 | **Sesión** | **Recursos**               | **Adaptación Contextual**                |  
@@ -78,7 +77,7 @@ El texto a reestructurar es el siguiente:
 | 1          | Semillas de maíz           | Vinculación con cultivos locales.        |  
 | 3          | Billetes de papel          | Moneda ficticia ("pesos caucasia").      |  
 
----
+
 
 ### **NOTA FINAL**  
 - **Integración de enfoques:** Cada sesión combina ABJ, sociocultural y registros semióticos, con énfasis según el objetivo.  
@@ -89,6 +88,6 @@ El texto a reestructurar es el siguiente:
 2. **Coherencia:** Cada sesión responde a necesidades específicas.  
 3. **Evaluable:** Criterios definidos para medir impacto.  
 
---- 
 
-¿Necesitas ajustar algún componente o profundizar en las actividades? ¡Estoy aquí para ayudarte! 📐✨
+
+
